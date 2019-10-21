@@ -1,6 +1,6 @@
 # HGMM: Hierarchical Gaussian Mixture Model
 
-	This is an implementation of the paper:
+This is an implementation of the paper:
 
 		Zheng, Huangjie, Jiangchao Yao, and Ya Zhang. "Describing Geographical Characteristics with Social Images." International Conference on Multimedia Modeling. Springer, Cham, 2017.
  
